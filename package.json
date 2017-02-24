@@ -1,0 +1,27 @@
+{
+  "name": "xyz.example.logger.bootstrap",
+  "version": "1.0.0",
+  "description": "basic logger bootstrap function for xyz-core",
+  "main": "xyz.basic.logger.bootstrap.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/node-xyz/xyz.example.logger.bootstrap.git"
+  },
+  "keywords": [
+    "node-xyz",
+    "xyz-core",
+    "microservice"
+  ],
+  "author": "kian.peymani@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/node-xyz/xyz.example.logger.bootstrap/issues"
+  },
+  "homepage": "https://github.com/node-xyz/xyz.example.logger.bootstrap#readme"
+}
